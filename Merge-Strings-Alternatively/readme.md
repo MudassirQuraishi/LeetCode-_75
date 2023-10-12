@@ -46,6 +46,6 @@ Return the merged string.
 
 ### Solution
 
-You can find the solution for this problem in Java by clicking on the following link: [Solution Link](solution.java)
+You can find the solution for this problem in Java by clicking on the following link: [Solution](solution.java)
 
 Feel free to explore the solution code and use it as a reference. Happy coding!
